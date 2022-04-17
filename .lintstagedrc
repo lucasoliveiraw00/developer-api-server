@@ -1,0 +1,6 @@
+{
+  "*.{tsx,jsx,ts,js}": [
+    "prettier --ignore-path .gitignore --write",
+    "eslint --ignore-path .gitignore --fix"
+  ]
+}
