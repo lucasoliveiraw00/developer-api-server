@@ -9,7 +9,7 @@ export default class LevelSeeder extends BaseSeeder {
         slug: 'junior',
       },
       {
-        level: 'Plano',
+        level: 'Pleno',
         slug: 'pleno',
       },
     ])
