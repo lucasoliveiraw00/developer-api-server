@@ -31,6 +31,8 @@
 
 Este é projeto se baseia em alguns fluxos de manutenções de dados de desenvolvedores e de níveis relacionados aos desenvolvedores, seguido o princípio de API REST com os métodos (​GET​, ​POST​, ​PUT/PATCH​ e ​DELETE​).
 
+[👉 Acessar versão de teste.](https://api-developer-server.herokuapp.com)
+
 ### 📒 Documentação
 
 - <a href="#-instalação" >(APP) Instalação</a>
@@ -98,7 +100,7 @@ Este é projeto se baseia em alguns fluxos de manutenções de dados de desenvol
 
    ```console
    # SSH
-   $ git@github.com
+   $ git@github.com:lucasoliveiraw00/developer-api-server.git
    ```
 
 2. Gere o arquivo .env:
