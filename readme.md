@@ -172,7 +172,7 @@ Este é projeto se baseia em alguns fluxos de manutenções de dados de desenvol
 
    ```console
    # SSH
-   $ git@github.com
+   $ git@github.com:lucasoliveiraw00/developer-api-server.git
    ```
 
 2. Gere o arquivo .env:
